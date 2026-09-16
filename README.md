@@ -5,7 +5,6 @@
 <img width="2880" height="1620" alt="68747470733a2f2f676470736875622e636f6d2f6173736574732f6272616e642d6173736574732f62616e6e65722d332e706e67" src="https://github.com/user-attachments/assets/d5043629-dc38-4492-9950-9566ad40af1b" />
 <img width="588" height="186" alt="images" src="https://github.com/user-attachments/assets/8ccc7904-7db6-465d-9eab-d9cebc064484" />
 <img width="2880" height="1620" alt="68747470733a2f2f676470736875622e636f6d2f6173736574732f6272616e642d6173736574732f62616e6e65722d332e706e67 (1)" src="https://github.com/user-attachments/assets/6fc8a57d-00c6-468a-8595-1ffc65e144cb" />
-
-
+<img width="518" height="518" alt="logo-animated" src="https://github.com/user-attachments/assets/3b6fef3f-e7c0-4633-b6a2-00d960cb6828" />
 https://github.com/wendrelldepois-hue/Gdps-hub-instalar-1
 gostaria de confirmar
